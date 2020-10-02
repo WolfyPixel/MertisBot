@@ -1,0 +1,2 @@
+# MertisBot
+Discord bot
